@@ -1,0 +1,60 @@
+[
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title":"Tableau",
+      "imageSrc":"skills/tableau.png"
+    },
+    {
+      "title": "MYSQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "AZURE",
+      "imageSrc": "skills/azure.png"
+    },
+    {
+      "title": "PySpark",
+      "imageSrc": "skills/pyspark.png"
+    },
+    {
+      "title": "JIRA",
+      "imageSrc": "skills/jira.png"
+    },
+    {
+      "title": "PowerBI",
+      "imageSrc": "skills/powerBI.jpeg"
+    },
+    {
+      "title": "Hadoop",
+      "imageSrc": "skills/hadoop.png"
+    },
+    {
+      "title": "R",
+      "imageSrc": "skills/Rlang.png"
+    },
+   
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "NumPy",
+      "imageSrc": "skills/numpy.png"
+    },
+    {
+      "title": "OpenCV",
+      "imageSrc": "skills/opencv.png"
+    },
+    {
+      "title": "Scala",
+      "imageSrc": "skills/scala.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    }
+    
+  ]

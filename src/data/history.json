@@ -1,0 +1,66 @@
+[
+  {
+    "role": "Research Assistant",
+    "organisation": "University of Central Florida",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Streamlined data handling using SQL, Excel, and Python, boosting efficiency by 60% and reducing manual work by 2 hours with advanced Excel functions. Improved system performance by 30% through program analysis and revisions, enhancing customer satisfaction"
+    ],
+    "imageSrc": "history/ucf.png"
+  },
+  {
+    "role": "Business Data Analyst",
+    "organisation": "Cognizant Technology Solutions",
+    "startDate": "July, 2022",
+    "endDate": "July, 2023",
+    "experiences": [
+      "Automated reporting with Tableau, boosting call center performance and increasing collections by $15M. Developed SQL-based budgeting models with 2% revenue forecast accuracy. Created an R-based Garnishment Effectiveness Model, saving $3M annually, and enhanced logistic regression with Python, improving accuracy by 70% and reducing development time by 15%."
+    ],
+    "imageSrc": "history/cognizant.png"
+  },
+  {
+    "role": "Logistics Data Analyst Intern",
+    "organisation": "Cognizant Technology Solutions",
+    "startDate": "Feb, 2022",
+    "endDate": "Jun, 2022",
+    "experiences": [
+      "Resolved licensing issues, boosting selection rates by 60% and increasing collections by $3M. Led a global team on 8 business projects, launching 12 tools that contributed to $100M in profits. Optimized call center tracking with Tableau, improving debt collection efficiency by 20% and reducing wait times by 300+ hours."
+    ],
+    "imageSrc": "history/cognizant_intern.png"
+  },
+  
+  {
+    "role": "Research Intern",
+    "organisation": "Security Research and Development, Hyderabad",
+    "startDate": "Feb, 2021",
+    "endDate": "Dec, 2021",
+    "experiences": [
+      "Improved productivity by 10% across operations through collaboration with manufacturing engineers and deployment of Standard Operating Procedures.",
+      "Reduced quality issues by 40% with a Tableau model for financial reporting of inventory analysis and parts turn analysis."
+    ],
+    "imageSrc": "history/srd_hyderabad.png"
+  },
+  {
+    "role": "Research Intern",
+    "organisation": "International Institute of Information Technology (IIITH), India",
+    "startDate": "Feb, 2020",
+    "endDate": "Nov, 2020",
+    "experiences": [
+      "Streamlined case resolution, cutting truck rolls from 4 to 2 per case across 161k cases, saving $14.7M.",
+      "Developed a Timekeeping Tableau tool, enhancing efficiency and saving $215,800 annually."
+    ],
+    "imageSrc": "history/iiith.png"
+  },
+  {
+    "role": "Research Intern",
+    "organisation": "Indian Railways",
+    "startDate": "Mar, 2019",
+    "endDate": "Oct, 2019",
+    "experiences": [
+      "Reduced 500+ manual reporting hours and achieved an error rate of 0.1% by automating incentive compensation models for over 2,200 crew members.",
+      "Directed Railway’s Tableau platform and trained over 50 analysts, ensuring data accuracy and improving operational governance."
+    ],
+    "imageSrc": "history/indian_railways.png"
+  }
+]

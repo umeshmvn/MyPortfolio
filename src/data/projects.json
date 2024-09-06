@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Netflix Dasboard",
+      "imageSrc": "projects/dataAnalyst.gif",
+      "description": "Dive deep into the world of Netflix with an immersive, interactive dashboard that uncovers global streaming trends, provides detailed insights into various genres, and tracks the evolution of content over time.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://public.tableau.com/app/profile/venkata.naga.umesh.munagala/vizzes"
+    },
+    {
+      "title": "Uber Trip Data Analysis with GCP",
+      "imageSrc": "projects/data.jpg",
+      "description": "Unlock actionable insights from Uber trip data with a powerful data pipeline leveraging Python, BigQuery, and cutting-edge GCP services for seamless analytics.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/umeshmvn/Uber-Data-Analytics-Modern-Data-Engineering-on-GCP.git"
+    },
+    {
+      "title": "Real Time Face Detection in Videos",
+      "imageSrc": "projects/python.jpg",
+      "description": "Utilized deep learning and advanced facial landmarking to create a robust face recognition system capable of clustering and identifying faces with high accuracy across varied images.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/umeshmvn/Real-Time-Face-Detection-in-Videos.git"
+    }
+  ]
